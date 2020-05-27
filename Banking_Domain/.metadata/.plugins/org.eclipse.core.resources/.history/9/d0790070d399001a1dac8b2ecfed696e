@@ -1,0 +1,17 @@
+package qaclickacademy.Mavenjava;
+
+import org.junit.Test;
+
+public class Sample2 
+{
+	@Test
+	public void mobile()
+	{
+		System.out.println("This s sample2");
+	}
+	@Test
+	public void iosapps()
+	{
+		System.out.println("Twitter deleted");
+	}
+}
